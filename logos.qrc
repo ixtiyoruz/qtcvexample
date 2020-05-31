@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logos/expand.png</file>
+        <file>logos/resize.png</file>
+    </qresource>
+</RCC>
